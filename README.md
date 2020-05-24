@@ -6,6 +6,7 @@ Reviewing alternate methods of manually analyzing data.
 
 
 References -
+* Competition page: https://www.kaggle.com/c/titanic/
 * Pandas documentation: https://pandas.pydata.org/pandas-docs/stable/pandas.pdf
 * Binning: https://pbpython.com/pandas-qcut-cut.html
 * Adding columns: https://www.geeksforgeeks.org/adding-new-column-to-existing-dataframe-in-pandas
