@@ -1,7 +1,7 @@
 # kaggle-titanic-ml
 Code trials for the Titanic ML challenge on Kaggle
 
-Used the random forest classifier so far, but getting about 74-85% of accuracy so far.
+Used the random forest classifier so far, with about 74-85% accuracy.
 Reviewing alternate methods of manually analyzing data.
 
 
